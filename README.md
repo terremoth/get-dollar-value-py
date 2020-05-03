@@ -1,4 +1,4 @@
-# pyget-dolar-value
+# get-dolar-value-py
 Simple python script to get dolar value in reais (R$) from DolarHoje.com
 
 ## How to use:
